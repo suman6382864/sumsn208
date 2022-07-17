@@ -22,7 +22,7 @@
 - `pip install bs4`
 - `rm -rf AKING`
 - `git clone https://github.com/AKING110/AKING.git`
-- `cd AKING`
+- `cd sumsn208`
 - `python SUMAN.py`
      
 
