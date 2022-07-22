@@ -23,7 +23,7 @@
 - `rm -rf sumsn208`
 - `git clone https://github.com/suman6382864/sumsn208.git`
 - `cd sumsn208`
-- `python SUMAN.py`
+- `python SuMaN420.py`
      
 
  ```Note : This Tools is Paid ```</br>
