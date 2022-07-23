@@ -24,20 +24,14 @@ $ apt install python
 $ 'pip install requests
 $ pip install rich
 $ pkg install git 
-$ git clone https://github.com/RJ-Shuvo/RJ-BEST-Cloner
+$ git clone https://github.com/suman6382864/sumsn208.git
 ```
 #### RUN SCRIPT
 ```python
-$ cd RJ-BEST-Cloner
+$ cd sumsn208
 $ python RJ_Cloner.py
 ```
 
 
-#### MY SOCIAL MEDIA
-
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/RJ-Shuvo) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)]() <br>
-[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/rj.shuvo.h4ck3r) <br>
 
 
-<h2> THANKS FOR VISIT ✘✘ <h2\>
