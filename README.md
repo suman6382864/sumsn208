@@ -9,8 +9,8 @@
   
 ____Programming And Memes____
 
-CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
-<p>md069800@gmail.com</p>  <br> <br> 
+
+
 
 
       FACEBOOK ACCOUNT CLONER
