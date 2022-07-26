@@ -22,7 +22,7 @@ $ apt update && apt upgrade
 $ apt install python
 $ 'pip install requests
 $ pip install rich
-$ pip2 install requests bs4
+$ pip install requests bs4
 $ pkg install git 
 $ git clone https://github.com/suman6382864/sumsn208.git
 
